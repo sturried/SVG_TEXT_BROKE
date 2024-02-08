@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+
+    <div style="width:400px;height:400px">
+        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+             xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" viewBox="0 0 1000 800">
+
+            <!-- 
+            - Genutzt, um Anhaltspunkte für die Positionierung zu haben
+
+            <text x="-1" y="39" font-family="Rockwell Nova Bold" font-size="59" fill="black">BROKE</text>     
+            <text x="-1" y="80" font-family="Rockwell Nova Bold" font-size="59" fill="#cc96b1">BROKE</text> 
+            <use href="#BROKE"/>
+            -->
+
+          <!--Buchstaben-->
+            <defs>
+              <g id="BROKE">
+              <!--B-->
+              <rect x="5.5" y="0" width="5.5" height="39" fill="#cc96b1"/>
+              <path d="M6,1 C38,-2 38,25 6,19" fill="none" stroke-width="4" stroke="#cc96b1"/>
+              <path d="M6,21 C44,15 40,44 6,36" fill="none" stroke-width="4" stroke="#cc96b1"/>
+                
+                <!--Serifen-->
+                  <!--links oben-->
+                  <path d="M0,0 L6,0" fill="none" stroke-width="1.9" stroke="#cc96b1"/>
+                  <path d="M0,0.5 Q6,0 6,4" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                  <rect x="5" y="0.5" width="1" height="1.5" fill="#cc96b1"/>  
+                  <!--links unten-->
+                  <path d="M0,38.5 L6,38.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                  <path d="M0,0.5 Q6,0 6.1,4" fill="none" stroke-width="1.2" stroke="#cc96b1"
+                  transform="scale(1, -1) translate(0, -39) "/>
+                  <rect x="5" y="37.5" width="1" height="1" fill="#cc96b1"/>  
+            
+          
+              <!--R-->
+              <rect x="45" y="0" width="5.5" height="39" fill="#cc96b1"/>
+              <path d="M46,2 C73,-2 75,25 46,19" fill="none" stroke-width="4" stroke="#cc96b1"/>
+              <path d="M57 19 L 70 37" fill="none" stroke-width="5" stroke="#cc96b1"/>
+                
+                <!--Serifen-->
+                  <!--links oben-->
+                  <path d="M41,0.3 L46,0.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                  <path d="M41,0.3 Q45.5,0 45.5,4" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                  <rect x="44.3" y="0.7" width="1" height="1" fill="#cc96b1"/>  
+                  <!--links unten-->
+                  <path d="M39,38.5 L45,38.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                  <path d="M39,0.5 Q45.5,0 45.5,4" fill="none" stroke-width="1" stroke="#cc96b1"
+                  transform="translate(0, 39) scale(1, -1)"/>
+                  <rect x="44" y="37.5" width="1" height="1" fill="#cc96b1"/>  
+                  <!--rechts unten-->
+                  <path d="M50,38.5 56,38.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                  <path d="M120,0.5 Q127.2,0.2 127.5,4" fill="none" stroke-width="1" stroke="#cc96b1"
+                  transform="scale (-1, -1) translate(-177.4, -39)"/>
+                  <rect x="50.3" y="37.2" width="1" height="1" fill="#cc96b1"/>  
+                  <!--weiter rechts, unten-->
+                  <path d="M68,38.5 L78.3,38.5" fill="none" stroke-width="1.5" stroke="#cc96b1"/>
+                  <path d="M70,34 Q72,37 78,38.5" fill="none" stroke-width="1.5" stroke="#cc96b1"/>
+                  <path d="M68,38 L71,35 L75,38 z" fill="#cc96b1"/>    
+
+
+              <!--O-->
+              <ellipse cx="99" cy="20" rx="15" ry="18" fill="none" stroke-width="4" stroke="#cc96b1"/>
+              <path d="M94,3 C78,10 76,30 94,37" fill="none" stroke-width="4" stroke="#cc96b1"/>
+              <path d="M94,3 C78,10 76,30 94,37" fill="none" stroke-width="4" stroke="#cc96b1"
+              transform="scale(-1, 1) translate(-198, 0)"/>
+
+
+              <!--K-->
+              <rect x="127" y="0" width="5.5" height="39" fill="#cc96b1"/>
+              <path d="M134.5 16.9 L 152.7 37" fill="none" stroke-width="6.5" stroke="#cc96b1"/>
+              <path d="M134.7 16.9 L 149 37" fill="none" stroke-width="3" stroke="#cc96b1"
+                  transform="rotate(262 135.6 17)"/>
+                
+                <!--Serifen-->
+                  <!--linke seite-->
+                    <!--links oben-->
+                    <path d="M121.3,0.5 128,0.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M121.3,0.5 Q127.2,0 127.5,4" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <rect x="126.2" y="0.8" width="1" height="1" fill="#cc96b1" />
+                    <!--rechts oben-->
+                    <path d="M132.5,0.5 138,0.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M121.3,0.5 Q127.2,0.2 127.3,4" fill="none" stroke-width="1" stroke="#cc96b1"
+                    transform="scale (-1, 1) translate(-259.3, 0)"/>
+                    <rect x="132" y="0.8" width="1" height="1" fill="#cc96b1" />
+                    <!--links unten-->
+                    <path d="M121.3,38.5 128,38.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M123,0.5 Q127,0 127.5,4" fill="none" stroke-width="1" stroke="#cc96b1"
+                    transform="translate(0, 39) scale(1, -1)"/>
+                    <rect x="126.2" y="37.3" width="1" height="1" fill="#cc96b1" />
+                    <!--rechts unten-->
+                    <path d="M132,38.5 138,38.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M121.3,0.4 Q127.2,0.2 127.3,4" fill="none" stroke-width="1" stroke="#cc96b1"
+                    transform="scale (-1, -1) translate(-259.3, -38.9)"/>
+                    <rect x="132.3" y="37.3" width="1" height="1" fill="#cc96b1" />
+                
+                  <!--rechte seite-->
+                    <!--links oben-->
+                    <path d="M144,0.5 157,0.5" fill="none" stroke-width="1" stroke="#cc96b1"/>     
+                    <path d="M144,0.5 Q151,1 146.8,6" fill="none" stroke-width="1" stroke="#cc96b1"/>     
+                    <!--rechts oben-->
+                    <path d="M152,3.7 Q154,1.2 156.8,0.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M147,0.7 L149,4 L152,0.7" fill="#cc96b1"/>
+                    <rect x="153.5" y="1" fill="#cc96b1" width="1" height="0.5" />
+                    <!--links unten-->
+                    <path d="M144.5, 38.5 163,38.5" fill="none" stroke-width="1.2" stroke="#cc96b1"/>
+                    <path d="M144.5, 38.5 Q152,38.8 146, 33" fill="none" stroke-width="1.3" stroke="#cc96b1" />
+                    <rect x="149" y="37.3" width="1" height="1" fill="#cc96b1" />
+                    <!--rechts unten-->
+                    <path d="M151,31.5 C156,36.5 159,38.8 163,38.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M151,38 L155,35 L159,38 z" fill="#cc96b1"/>    
+                
+
+            <!--E-->
+                <rect x="169.5" y="0" width="5.5" height="39" fill="#cc96b1"/>
+                <path d="M168.5,0.5 L194.3, 0.5" fill="#cc96b1" stroke-width="3" stroke="#cc96b1"/>
+                <path d="M193.5,0 L194,8.5" fill="#cc96b1" stroke-width="1.5" stroke="#cc96b1"/>
+                <path d="M170,18.5 L190, 18.5" fill="#cc96b1" stroke-width="2" stroke="#cc96b1"/>
+                <path d="M170,37.5 L194, 37.5" fill="#cc96b1" stroke-width="3" stroke="#cc96b1"/>
+                
+                <!--linke seite-->
+                  <!--links oben-->
+                    <path d="M164,0 170,0" fill="none" stroke-width="2" stroke="#cc96b1"/>
+                    <path d="M164,0.5 Q169.2,0 170.2,4" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <!--links unten-->
+                    <path d="M164,38.5 170,38.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M164,0.5 Q169.2,0 170.2,4" fill="none" stroke-width="1" stroke="#cc96b1"
+                    transform="translate(0, 39) scale(1, -1)"/>
+                    <rect x="168.6" y="37" width="1" height="1.5" fill="#cc96b1"/>
+                    <!--rechts unten-->
+                    <path d="M174.5,30 Q174,39 181,37" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <rect x="174.5" y="35" width="1" height="1.5" fill="#cc96b1"/>  
+
+                <!--rechte seite-->
+                  <!--rechts oben-->
+                    <path d="M188,1.5 Q193,2 194,8" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M190,1.5 L193,1 L193.4,5" fill="#cc96b1"/>
+                    <!--mitte oben-->
+                    <path d="M190.5, 12 L190.5, 25" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M183,18 Q189,19 190.5,12" fill="none" stroke-width="1" stroke="#cc96b1"/> 
+                    <path d="M190.5,14.5 L186,18 L190.5, 23" fill="#cc96b1"/>
+
+                    <!--mitte unten-->
+                    <path d="M183,18 Q189,19 190.5,12" fill="none" stroke-width="1" stroke="#cc96b1"
+                    transform="translate(0, 37) scale(1, -1)"/>
+                    <!--rechts unten-->
+                    <path d="M193.54,38.8 L197, 29.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <path d="M180,37 Q192,42 197,29.5" fill="none" stroke-width="1" stroke="#cc96b1"/>
+                    <rect x="193.4" y="34.9" width="1.2" height="1.3" fill="#cc96b1"/>  
+               
+                </g>
+              </defs>
+                
+          <!--Schatten und Highlights--> 
+            <defs>
+              <!--Schatten-->
+                <filter id="combinedFilter" height="130%">
+                    <feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
+                    <feOffset dx="7" dy="3" result="offsetblur"/>
+                    <feMerge> 
+                        <feMergeNode/>
+                        <feMergeNode in="SourceGraphic"/>
+                    </feMerge>
+              <!--Highlight-->
+                <feDropShadow stdDeviation="4" flood-color="pink" flood-opacity="4"/>
+                  <feComposite in="SourceGraphic"/>
+                </filter>  
+            </defs>
+            <g filter="url(#combinedFilter)">
+                <use href="#BROKE"/>
+            </g>
+    
+          <!--Animation-->
+            <g filter="url(#combinedFilter)">
+              <use href="#BROKE"/>
+              <animateTransform attributeName="transform" type="translate" values="150 100; 550 100; 550 500; 150 500; 150 100; 350 300" dur="5s" repeatCount="20"/>
+              <animateTransform attributeName="transform" type="rotate" values="0; 30; -30; 0; 360; -360; 0" dur="5s" repeatCount="20" additive="sum"/>
+              <animate attributeName="opacity" from="1" to="0" dur="5s" begin="10s" repeatCount="1" />
+            </g>
+                
+               
+         
+          <!-- GRID 
+          - Genutzt, um das Wort ausrichten zu können
+
+            <defs>
+              <pattern id="smallGrid" width="3" height="3" patternUnits="userSpaceOnUse">
+                <path d="M 8 0 L 0 0 0 8" fill="none" stroke="gray" stroke-width="0.5"/>
+              </pattern>
+              <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+                <rect width="80" height="80" fill="url(#smallGrid)"/>
+                <path d="M 80 0 L 0 0 0 80" fill="none" stroke="gray" stroke-width="1"/>
+              </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#grid)" />-->
+        </svg>
+      </div>
+  </svg>
